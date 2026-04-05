@@ -1,0 +1,19 @@
+# --- YOUR CURRENT DEVICES ---
+1bcf:08a0   # Your mouse (Sunplus)
+
+# --- COMMON SAFE KEYBOARD/MOUSE VENDORS ---
+046d:c534   # Logitech Unifying Receiver
+046d:c52b   # Logitech Keyboard
+046d:c077   # Logitech Mouse
+
+045e:07f8   # Microsoft Keyboard
+045e:0823   # Microsoft Mouse
+
+04d9:a0df   # Generic OEM keyboard (Holtek)
+04f2:0112   # Chicony keyboard (laptops)
+
+17ef:6047   # Lenovo keyboard
+413c:301a   # Dell keyboard
+
+
+1bcf:08a0

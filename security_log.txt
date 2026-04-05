@@ -1,0 +1,8 @@
+2026-04-05 03:46:41,131 | INFO | Monitoring keyboard: /dev/input/event7
+2026-04-05 03:46:41,243 | INFO | Monitoring keyboard: /dev/input/event2
+2026-04-05 03:46:50,577 | WARNING | Suspicious Pico device detected: "Raspberry Pi Pico Mouse"
+2026-04-05 03:52:40,045 | INFO | Monitoring keyboard: /dev/input/event2
+2026-04-05 03:52:55,177 | WARNING | Suspicious Pico device detected: "Raspberry Pi Pico Keyboard"
+2026-04-05 03:57:52,776 | INFO | Monitoring keyboard: /dev/input/event7
+2026-04-05 03:57:52,850 | INFO | Monitoring keyboard: /dev/input/event2
+2026-04-05 03:58:03,915 | WARNING | Suspicious Pico device detected: "Raspberry Pi Pico Mouse"

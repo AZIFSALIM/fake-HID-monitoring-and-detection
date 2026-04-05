@@ -1,0 +1,334 @@
+2026-03-25 15:14:17,169 | INFO | ADD | Name: "HID 1bcf:08a0 Mouse" | Node: N/A | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:17,177 | INFO | ADD | Name: "HID 1bcf:08a0 Keyboard" | Node: N/A | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:17,190 | INFO | ADD | Name: Unknown HID | Node: /dev/input/mouse3 | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:17,238 | INFO | ADD | Name: Unknown HID | Node: /dev/input/event7 | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:17,255 | INFO | ADD | Name: Unknown HID | Node: /dev/input/event8 | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:31,221 | INFO | REMOVE | Name: Unknown HID | Node: /dev/input/mouse3 | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:31,413 | INFO | REMOVE | Name: Unknown HID | Node: /dev/input/event7 | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:31,418 | INFO | REMOVE | Name: "HID 1bcf:08a0 Mouse" | Node: N/A | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:31,434 | INFO | REMOVE | Name: Unknown HID | Node: /dev/input/event8 | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:31,527 | INFO | REMOVE | Name: "HID 1bcf:08a0 Keyboard" | Node: N/A | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:36,836 | INFO | ADD | Name: "HID 1bcf:08a0 Keyboard" | Node: N/A | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:36,837 | INFO | ADD | Name: "HID 1bcf:08a0 Mouse" | Node: N/A | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:36,850 | INFO | ADD | Name: Unknown HID | Node: /dev/input/mouse3 | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:36,915 | INFO | ADD | Name: Unknown HID | Node: /dev/input/event7 | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:36,921 | INFO | ADD | Name: Unknown HID | Node: /dev/input/event8 | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:42,638 | INFO | REMOVE | Name: Unknown HID | Node: /dev/input/mouse3 | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:42,645 | INFO | REMOVE | Name: Unknown HID | Node: /dev/input/event7 | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:42,659 | INFO | REMOVE | Name: "HID 1bcf:08a0 Mouse" | Node: N/A | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:42,683 | INFO | REMOVE | Name: Unknown HID | Node: /dev/input/event8 | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:42,756 | INFO | REMOVE | Name: "HID 1bcf:08a0 Keyboard" | Node: N/A | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:46,032 | INFO | ADD | Name: "HID 1bcf:08a0 Mouse" | Node: N/A | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:46,039 | INFO | ADD | Name: "HID 1bcf:08a0 Keyboard" | Node: N/A | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:46,065 | INFO | ADD | Name: Unknown HID | Node: /dev/input/mouse3 | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:46,123 | INFO | ADD | Name: Unknown HID | Node: /dev/input/event8 | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:46,128 | INFO | ADD | Name: Unknown HID | Node: /dev/input/event7 | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:47,491 | INFO | REMOVE | Name: Unknown HID | Node: /dev/input/mouse3 | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:47,507 | INFO | REMOVE | Name: Unknown HID | Node: /dev/input/event7 | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:47,510 | INFO | REMOVE | Name: "HID 1bcf:08a0 Mouse" | Node: N/A | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:47,549 | INFO | REMOVE | Name: Unknown HID | Node: /dev/input/event8 | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:14:47,619 | INFO | REMOVE | Name: "HID 1bcf:08a0 Keyboard" | Node: N/A | VID:PID=1bcf:08a0 | Serial: N/A
+2026-03-25 15:24:35,424 | INFO | ADD | "HID 1bcf:08a0 Mouse" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:24:35,432 | INFO | ADD | Unknown HID | /dev/input/mouse3 | VID:PID=1bcf:08a0
+2026-03-25 15:24:35,433 | WARNING | 🚨 ALERT: Rapid reconnect → Unknown (1bcf:08a0)
+2026-03-25 15:24:35,437 | INFO | ADD | "HID 1bcf:08a0 Keyboard" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:24:35,438 | WARNING | 🚨 ALERT: Rapid reconnect → "HID 1bcf:08a0 Keyboard" (1bcf:08a0)
+2026-03-25 15:24:35,479 | INFO | ADD | Unknown HID | /dev/input/event7 | VID:PID=1bcf:08a0
+2026-03-25 15:24:35,479 | WARNING | 🚨 ALERT: Rapid reconnect → Unknown (1bcf:08a0)
+2026-03-25 15:24:35,496 | INFO | ADD | Unknown HID | /dev/input/event8 | VID:PID=1bcf:08a0
+2026-03-25 15:24:35,497 | WARNING | 🚨 ALERT: Rapid reconnect → Unknown (1bcf:08a0)
+2026-03-25 15:24:41,588 | INFO | REMOVE | Unknown HID | /dev/input/mouse3 | VID:PID=1bcf:08a0
+2026-03-25 15:24:41,595 | INFO | REMOVE | Unknown HID | /dev/input/event7 | VID:PID=1bcf:08a0
+2026-03-25 15:24:41,599 | INFO | REMOVE | "HID 1bcf:08a0 Mouse" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:24:41,625 | INFO | REMOVE | Unknown HID | /dev/input/event8 | VID:PID=1bcf:08a0
+2026-03-25 15:24:41,683 | INFO | REMOVE | "HID 1bcf:08a0 Keyboard" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:24:45,428 | INFO | ADD | "HID 1bcf:08a0 Mouse" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:24:45,441 | INFO | ADD | Unknown HID | /dev/input/mouse3 | VID:PID=1bcf:08a0
+2026-03-25 15:24:45,441 | WARNING | 🚨 ALERT: Rapid reconnect → Unknown (1bcf:08a0)
+2026-03-25 15:24:45,442 | INFO | ADD | "HID 1bcf:08a0 Keyboard" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:24:45,442 | WARNING | 🚨 ALERT: Rapid reconnect → "HID 1bcf:08a0 Keyboard" (1bcf:08a0)
+2026-03-25 15:24:45,474 | INFO | ADD | Unknown HID | /dev/input/event7 | VID:PID=1bcf:08a0
+2026-03-25 15:24:45,475 | WARNING | 🚨 ALERT: Rapid reconnect → Unknown (1bcf:08a0)
+2026-03-25 15:24:45,484 | INFO | ADD | Unknown HID | /dev/input/event8 | VID:PID=1bcf:08a0
+2026-03-25 15:24:45,484 | WARNING | 🚨 ALERT: Rapid reconnect → Unknown (1bcf:08a0)
+2026-03-25 15:29:54,822 | INFO | REMOVE | Unknown HID | /dev/input/mouse3 | VID:PID=1bcf:08a0
+2026-03-25 15:29:54,827 | INFO | REMOVE | Unknown HID | /dev/input/event7 | VID:PID=1bcf:08a0
+2026-03-25 15:29:54,834 | INFO | REMOVE | "HID 1bcf:08a0 Mouse" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:29:54,856 | INFO | REMOVE | Unknown HID | /dev/input/event8 | VID:PID=1bcf:08a0
+2026-03-25 15:29:54,902 | INFO | REMOVE | "HID 1bcf:08a0 Keyboard" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:29:59,070 | INFO | ADD | "HID 1bcf:08a0 Mouse" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:29:59,073 | INFO | ADD | "HID 1bcf:08a0 Keyboard" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:29:59,088 | INFO | ADD | Unknown HID | /dev/input/mouse3 | VID:PID=1bcf:08a0
+2026-03-25 15:29:59,126 | INFO | ADD | Unknown HID | /dev/input/event8 | VID:PID=1bcf:08a0
+2026-03-25 15:29:59,127 | WARNING | 🚨 ALERT: Rapid reconnect → Unknown (1bcf:08a0)
+2026-03-25 15:29:59,133 | INFO | ADD | Unknown HID | /dev/input/event7 | VID:PID=1bcf:08a0
+2026-03-25 15:30:02,384 | INFO | REMOVE | Unknown HID | /dev/input/mouse3 | VID:PID=1bcf:08a0
+2026-03-25 15:30:02,385 | INFO | REMOVE | Unknown HID | /dev/input/event7 | VID:PID=1bcf:08a0
+2026-03-25 15:30:02,394 | INFO | REMOVE | "HID 1bcf:08a0 Mouse" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:30:02,409 | INFO | REMOVE | Unknown HID | /dev/input/event8 | VID:PID=1bcf:08a0
+2026-03-25 15:30:02,473 | INFO | REMOVE | "HID 1bcf:08a0 Keyboard" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:30:06,418 | INFO | ADD | "HID 1bcf:08a0 Keyboard" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:30:06,429 | INFO | ADD | "HID 1bcf:08a0 Mouse" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:30:06,457 | INFO | ADD | Unknown HID | /dev/input/mouse3 | VID:PID=1bcf:08a0
+2026-03-25 15:30:06,471 | INFO | ADD | Unknown HID | /dev/input/event8 | VID:PID=1bcf:08a0
+2026-03-25 15:30:06,471 | WARNING | 🚨 ALERT: Rapid reconnect → Unknown (1bcf:08a0)
+2026-03-25 15:30:06,559 | INFO | ADD | Unknown HID | /dev/input/event7 | VID:PID=1bcf:08a0
+2026-03-25 15:32:47,708 | INFO | REMOVE | Unknown HID | /dev/input/mouse3 | VID:PID=1bcf:08a0
+2026-03-25 15:32:47,717 | INFO | REMOVE | Unknown HID | /dev/input/event7 | VID:PID=1bcf:08a0
+2026-03-25 15:32:47,742 | INFO | REMOVE | "HID 1bcf:08a0 Mouse" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:32:47,772 | INFO | REMOVE | Unknown HID | /dev/input/event8 | VID:PID=1bcf:08a0
+2026-03-25 15:32:47,857 | INFO | REMOVE | "HID 1bcf:08a0 Keyboard" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:32:53,151 | INFO | ADD | "HID 1bcf:08a0 Mouse" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:32:53,157 | INFO | ADD | "HID 1bcf:08a0 Keyboard" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:32:53,165 | INFO | ADD | Unknown HID | /dev/input/mouse3 | VID:PID=1bcf:08a0
+2026-03-25 15:32:53,272 | INFO | ADD | Unknown HID | /dev/input/event7 | VID:PID=1bcf:08a0
+2026-03-25 15:32:53,276 | INFO | ADD | Unknown HID | /dev/input/event8 | VID:PID=1bcf:08a0
+2026-03-25 15:32:53,281 | WARNING | 🚨 ALERT: Rapid reconnect → Unknown (1bcf:08a0)
+2026-03-25 15:33:00,152 | INFO | REMOVE | Unknown HID | /dev/input/mouse3 | VID:PID=1bcf:08a0
+2026-03-25 15:33:00,157 | INFO | REMOVE | Unknown HID | /dev/input/event7 | VID:PID=1bcf:08a0
+2026-03-25 15:33:00,169 | INFO | REMOVE | "HID 1bcf:08a0 Mouse" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:33:00,195 | INFO | REMOVE | Unknown HID | /dev/input/event8 | VID:PID=1bcf:08a0
+2026-03-25 15:33:00,281 | INFO | REMOVE | "HID 1bcf:08a0 Keyboard" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:33:05,230 | INFO | ADD | "HID 1bcf:08a0 Keyboard" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:33:05,234 | INFO | ADD | "HID 1bcf:08a0 Mouse" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:33:05,250 | INFO | ADD | Unknown HID | /dev/input/mouse3 | VID:PID=1bcf:08a0
+2026-03-25 15:33:05,284 | INFO | ADD | Unknown HID | /dev/input/event8 | VID:PID=1bcf:08a0
+2026-03-25 15:33:05,284 | WARNING | 🚨 ALERT: Rapid reconnect → Unknown (1bcf:08a0)
+2026-03-25 15:33:05,303 | INFO | ADD | Unknown HID | /dev/input/event7 | VID:PID=1bcf:08a0
+2026-03-25 15:33:17,027 | INFO | REMOVE | Unknown HID | /dev/input/mouse3 | VID:PID=1bcf:08a0
+2026-03-25 15:33:17,044 | INFO | REMOVE | Unknown HID | /dev/input/event7 | VID:PID=1bcf:08a0
+2026-03-25 15:33:17,047 | INFO | REMOVE | "HID 1bcf:08a0 Mouse" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:33:17,066 | INFO | REMOVE | Unknown HID | /dev/input/event8 | VID:PID=1bcf:08a0
+2026-03-25 15:33:17,135 | INFO | REMOVE | "HID 1bcf:08a0 Keyboard" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:33:21,582 | INFO | ADD | "HID 1bcf:08a0 Mouse" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:33:21,588 | INFO | ADD | "HID 1bcf:08a0 Keyboard" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:33:21,590 | INFO | ADD | Unknown HID | /dev/input/mouse3 | VID:PID=1bcf:08a0
+2026-03-25 15:33:21,652 | INFO | ADD | Unknown HID | /dev/input/event7 | VID:PID=1bcf:08a0
+2026-03-25 15:33:21,658 | INFO | ADD | Unknown HID | /dev/input/event8 | VID:PID=1bcf:08a0
+2026-03-25 15:33:21,659 | WARNING | 🚨 ALERT: Rapid reconnect → Unknown (1bcf:08a0)
+2026-03-25 15:35:57,103 | INFO | REMOVE | Unknown HID | /dev/input/mouse3 | VID:PID=1bcf:08a0
+2026-03-25 15:35:57,109 | INFO | REMOVE | Unknown HID | /dev/input/event7 | VID:PID=1bcf:08a0
+2026-03-25 15:35:57,113 | INFO | REMOVE | "HID 1bcf:08a0 Mouse" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:35:57,129 | INFO | REMOVE | Unknown HID | /dev/input/event8 | VID:PID=1bcf:08a0
+2026-03-25 15:35:57,186 | INFO | REMOVE | "HID 1bcf:08a0 Keyboard" | N/A | VID:PID=1bcf:08a0
+2026-03-25 15:36:02,741 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | VID:PID=239a:80f4
+2026-03-25 15:36:02,750 | INFO | ADD | Unknown HID | /dev/input/mouse3 | VID:PID=239a:80f4
+2026-03-25 15:36:02,753 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | VID:PID=239a:80f4
+2026-03-25 15:36:02,754 | WARNING | 🚨 ALERT: Unknown keyboard → "Raspberry Pi Pico Keyboard" (239a:80f4)
+2026-03-25 15:36:02,817 | INFO | ADD | Unknown HID | /dev/input/event8 | VID:PID=239a:80f4
+2026-03-25 15:36:02,827 | INFO | ADD | Unknown HID | /dev/input/event7 | VID:PID=239a:80f4
+2026-03-25 15:36:02,827 | WARNING | 🚨 ALERT: Unknown keyboard → Unknown (239a:80f4)
+2026-03-25 15:36:02,827 | WARNING | 🚨 ALERT: Rapid reconnect → Unknown (239a:80f4)
+2026-03-25 15:36:32,737 | INFO | REMOVE | Unknown HID | /dev/input/event7 | VID:PID=239a:80f4
+2026-03-25 15:36:32,802 | INFO | REMOVE | Unknown HID | /dev/input/mouse3 | VID:PID=239a:80f4
+2026-03-25 15:36:32,821 | INFO | REMOVE | Unknown HID | /dev/input/event8 | VID:PID=239a:80f4
+2026-03-25 15:36:32,825 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A | VID:PID=239a:80f4
+2026-03-25 15:36:32,843 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A | VID:PID=239a:80f4
+2026-03-25 15:46:41,654 | INFO | ADD | "HID 1bcf:08a0 Mouse" | N/A | 1bcf:08a0
+2026-03-25 15:46:54,320 | INFO | ✅ Trusted device added → 1bcf:08a0
+2026-03-25 15:46:54,322 | INFO | ADD | "HID 1bcf:08a0 Keyboard" | N/A | 1bcf:08a0
+2026-03-25 15:46:54,323 | INFO | ADD | Unknown HID | /dev/input/mouse3 | 1bcf:08a0
+2026-03-25 15:46:54,324 | INFO | ADD | Unknown HID | /dev/input/event8 | 1bcf:08a0
+2026-03-25 15:46:54,325 | INFO | ADD | Unknown HID | /dev/input/event7 | 1bcf:08a0
+2026-03-25 15:46:59,270 | INFO | REMOVE | Unknown HID | /dev/input/mouse3 | 1bcf:08a0
+2026-03-25 15:46:59,274 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 1bcf:08a0
+2026-03-25 15:46:59,293 | INFO | REMOVE | "HID 1bcf:08a0 Mouse" | N/A | 1bcf:08a0
+2026-03-25 15:46:59,314 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 1bcf:08a0
+2026-03-25 15:46:59,388 | INFO | REMOVE | "HID 1bcf:08a0 Keyboard" | N/A | 1bcf:08a0
+2026-03-25 15:47:13,344 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-03-25 15:47:17,175 | WARNING | 🚨 Device rejected → "Raspberry Pi Pico Keyboard" (239a:80f4)
+2026-03-25 15:47:17,175 | WARNING | 🚨 ALERT: Untrusted keyboard → "Raspberry Pi Pico Keyboard"
+2026-03-25 15:47:17,176 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-03-25 15:47:17,177 | INFO | ADD | Unknown HID | /dev/input/mouse3 | 239a:80f4
+2026-03-25 15:47:17,178 | INFO | ADD | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-03-25 15:47:17,178 | INFO | ADD | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-03-25 15:47:21,195 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-03-25 15:47:21,261 | INFO | REMOVE | Unknown HID | /dev/input/mouse3 | 239a:80f4
+2026-03-25 15:47:21,262 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-03-25 15:47:21,263 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-03-25 15:47:21,269 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-03-25 16:00:51,914 | INFO | ADD | "HID 1bcf:08a0 Mouse" | N/A | 1bcf:08a0
+2026-03-25 16:00:51,935 | INFO | ADD | "HID 1bcf:08a0 Keyboard" | N/A | 1bcf:08a0
+2026-03-25 16:00:51,952 | INFO | ADD | Unknown HID | /dev/input/mouse3 | 1bcf:08a0
+2026-03-25 16:00:52,215 | INFO | ADD | Unknown HID | /dev/input/event8 | 1bcf:08a0
+2026-03-25 16:00:52,215 | INFO | ADD | Unknown HID | /dev/input/event7 | 1bcf:08a0
+2026-03-25 16:01:01,255 | INFO | REMOVE | Unknown HID | /dev/input/mouse3 | 1bcf:08a0
+2026-03-25 16:01:01,261 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 1bcf:08a0
+2026-03-25 16:01:01,270 | INFO | REMOVE | "HID 1bcf:08a0 Mouse" | N/A | 1bcf:08a0
+2026-03-25 16:01:01,282 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 1bcf:08a0
+2026-03-25 16:01:01,399 | INFO | REMOVE | "HID 1bcf:08a0 Keyboard" | N/A | 1bcf:08a0
+2026-03-25 16:01:17,603 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-03-25 16:01:17,604 | INFO | ℹ️ Untrusted mouse detected → "Raspberry Pi Pico Mouse" (239a:80f4)
+2026-03-25 16:01:17,643 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-03-25 16:01:17,652 | INFO | ADD | Unknown HID | /dev/input/mouse3 | 239a:80f4
+2026-03-25 16:01:17,831 | INFO | ADD | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-03-25 16:01:17,836 | INFO | ADD | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-03-25 16:01:39,214 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-03-25 16:01:39,287 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-03-25 16:01:39,333 | INFO | REMOVE | Unknown HID | /dev/input/mouse3 | 239a:80f4
+2026-03-25 16:01:39,335 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-03-25 16:01:39,338 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-03-25 16:05:23,413 | INFO | ADD | "HID 1bcf:08a0 Mouse" | N/A | 1bcf:08a0
+2026-03-25 16:05:23,416 | INFO | ✅ Trusted device → "HID 1bcf:08a0 Mouse" (1bcf:08a0)
+2026-03-25 16:05:23,427 | INFO | ADD | "HID 1bcf:08a0 Keyboard" | N/A | 1bcf:08a0
+2026-03-25 16:05:23,467 | INFO | ADD | Unknown HID | /dev/input/event7 | 1bcf:08a0
+2026-03-25 16:05:23,516 | INFO | ADD | Unknown HID | /dev/input/event8 | 1bcf:08a0
+2026-03-25 16:05:33,396 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 1bcf:08a0
+2026-03-25 16:05:33,493 | INFO | REMOVE | "HID 1bcf:08a0 Mouse" | N/A | 1bcf:08a0
+2026-03-25 16:05:33,545 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 1bcf:08a0
+2026-03-25 16:05:33,630 | INFO | REMOVE | "HID 1bcf:08a0 Keyboard" | N/A | 1bcf:08a0
+2026-03-25 16:05:45,806 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-03-25 16:05:45,815 | INFO | ℹ️ Untrusted mouse → "Raspberry Pi Pico Mouse" (239a:80f4)
+2026-03-25 16:05:45,820 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-03-25 16:05:45,872 | INFO | ADD | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-03-25 16:05:45,889 | INFO | ADD | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-03-25 16:05:49,999 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-03-25 16:05:50,145 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-03-25 16:05:50,175 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-03-25 16:05:50,260 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-03-25 16:09:19,742 | INFO | ADD | "HID 1bcf:08a0 Keyboard" | N/A | 1bcf:08a0
+2026-03-25 16:09:19,747 | INFO | ADD | "HID 1bcf:08a0 Mouse" | N/A | 1bcf:08a0
+2026-03-25 16:09:19,788 | INFO | ADD | Unknown HID | /dev/input/event8 | 1bcf:08a0
+2026-03-25 16:09:19,792 | INFO | ADD | Unknown HID | /dev/input/event7 | 1bcf:08a0
+2026-03-25 16:09:33,491 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 1bcf:08a0
+2026-03-25 16:09:33,498 | INFO | REMOVE | "HID 1bcf:08a0 Mouse" | N/A | 1bcf:08a0
+2026-03-25 16:09:33,523 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 1bcf:08a0
+2026-03-25 16:09:33,614 | INFO | REMOVE | "HID 1bcf:08a0 Keyboard" | N/A | 1bcf:08a0
+2026-03-25 16:09:36,992 | INFO | ADD | "HID 1bcf:08a0 Keyboard" | N/A | 1bcf:08a0
+2026-03-25 16:09:36,994 | INFO | ADD | "HID 1bcf:08a0 Mouse" | N/A | 1bcf:08a0
+2026-03-25 16:09:37,101 | INFO | ADD | Unknown HID | /dev/input/event8 | 1bcf:08a0
+2026-03-25 16:09:37,144 | INFO | ADD | Unknown HID | /dev/input/event7 | 1bcf:08a0
+2026-03-25 16:09:43,035 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 1bcf:08a0
+2026-03-25 16:09:43,048 | INFO | REMOVE | "HID 1bcf:08a0 Mouse" | N/A | 1bcf:08a0
+2026-03-25 16:09:43,066 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 1bcf:08a0
+2026-03-25 16:09:43,133 | INFO | REMOVE | "HID 1bcf:08a0 Keyboard" | N/A | 1bcf:08a0
+2026-03-25 16:09:54,928 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-03-25 16:09:54,931 | WARNING | 🚨 ALERT: Untrusted keyboard → "Raspberry Pi Pico Keyboard" (239a:80f4)
+2026-03-25 16:09:54,977 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-03-25 16:09:55,001 | INFO | ADD | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-03-25 16:09:55,102 | INFO | ADD | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-03-25 16:10:07,119 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-03-25 16:10:07,189 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-03-25 16:10:07,200 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-03-25 16:10:07,220 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-03-25 16:12:37,500 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-03-25 16:12:37,507 | WARNING | 🚨 ALERT: Untrusted keyboard → "Raspberry Pi Pico Keyboard" (239a:80f4)
+2026-03-25 16:12:41,020 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-03-25 16:12:41,033 | INFO | ADD | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-03-25 16:12:41,037 | INFO | ADD | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-03-25 16:13:07,761 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-03-25 16:13:07,815 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-03-25 16:13:07,852 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-03-25 16:13:07,854 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-03-25 16:24:33,584 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-03-25 16:24:33,588 | INFO | ℹ️ Untrusted mouse → "Raspberry Pi Pico Mouse" (239a:80f4)
+2026-03-25 16:24:33,592 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-03-25 16:24:33,656 | INFO | ADD | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-03-25 16:24:33,669 | INFO | ADD | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-03-25 16:24:47,531 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-03-25 16:24:47,674 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-03-25 16:24:47,675 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-03-25 16:24:47,677 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-03-25 16:30:26,584 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-03-25 16:30:26,606 | INFO | ℹ️ Untrusted mouse → "Raspberry Pi Pico Mouse" (239a:80f4)
+2026-03-25 16:30:26,609 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-03-25 16:30:26,690 | INFO | ADD | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-03-25 16:30:26,696 | INFO | ADD | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-03-25 16:30:34,481 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-03-25 16:30:34,536 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-03-25 16:30:34,550 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-03-25 16:30:34,570 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-03-25 16:30:40,560 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-03-25 16:30:40,562 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-03-25 16:30:40,620 | INFO | ADD | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-03-25 16:30:40,633 | INFO | ADD | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-03-25 16:30:54,595 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-03-25 16:30:54,684 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-03-25 16:30:54,693 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-03-25 16:30:54,707 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-03 14:53:27,835 | INFO | ADD | "HID 1bcf:08a0 Mouse" | N/A | 1bcf:08a0
+2026-04-03 14:53:27,849 | INFO | ADD | "HID 1bcf:08a0 Keyboard" | N/A | 1bcf:08a0
+2026-04-03 14:53:27,946 | INFO | ADD | Unknown HID | /dev/input/event8 | 1bcf:08a0
+2026-04-03 14:53:27,951 | INFO | ADD | Unknown HID | /dev/input/event7 | 1bcf:08a0
+2026-04-03 14:53:58,675 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 1bcf:08a0
+2026-04-03 14:53:58,682 | INFO | REMOVE | "HID 1bcf:08a0 Mouse" | N/A | 1bcf:08a0
+2026-04-03 14:53:58,684 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 1bcf:08a0
+2026-04-03 14:53:58,784 | INFO | REMOVE | "HID 1bcf:08a0 Keyboard" | N/A | 1bcf:08a0
+2026-04-03 14:54:24,701 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-03 14:54:24,705 | INFO | ℹ️ Untrusted mouse → "Raspberry Pi Pico Mouse" (239a:80f4)
+2026-04-03 14:54:24,707 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-03 14:54:24,850 | INFO | ADD | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-03 14:54:24,853 | INFO | ADD | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-03 14:54:58,378 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-03 14:54:58,527 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-03 14:54:58,534 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-03 14:54:58,538 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-03 14:55:09,843 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-03 14:55:09,875 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-03 14:55:09,964 | INFO | ADD | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-03 14:55:10,042 | INFO | ADD | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-03 14:55:23,390 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-03 14:55:23,423 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-03 14:55:23,439 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-03 14:55:23,466 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-03 14:55:56,342 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-03 14:55:56,345 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-03 14:55:56,448 | INFO | ADD | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-03 14:55:56,453 | INFO | ADD | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-03 14:56:05,132 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-03 14:56:05,231 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-03 14:56:05,239 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-03 14:56:05,257 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-03 15:26:33,921 | INFO | ADD | "HID 1bcf:08a0 Mouse" | N/A | 1bcf:08a0
+2026-04-03 15:26:33,942 | INFO | ADD | "HID 1bcf:08a0 Keyboard" | N/A | 1bcf:08a0
+2026-04-03 15:26:34,055 | INFO | ADD | Unknown HID | /dev/input/event8 | 1bcf:08a0
+2026-04-03 15:26:34,093 | INFO | ADD | Unknown HID | /dev/input/event7 | 1bcf:08a0
+2026-04-03 15:27:10,352 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 1bcf:08a0
+2026-04-03 15:27:10,365 | INFO | REMOVE | "HID 1bcf:08a0 Mouse" | N/A | 1bcf:08a0
+2026-04-03 15:27:10,390 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 1bcf:08a0
+2026-04-03 15:27:10,480 | INFO | REMOVE | "HID 1bcf:08a0 Keyboard" | N/A | 1bcf:08a0
+2026-04-03 15:27:34,913 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-03 15:27:34,915 | WARNING | ⚠️ Pico detected → "Raspberry Pi Pico Keyboard"
+2026-04-03 15:27:35,486 | WARNING | 🚨 ALERT: Untrusted keyboard → "Raspberry Pi Pico Keyboard" (239a:80f4)
+2026-04-03 15:27:35,550 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-03 15:27:35,551 | INFO | ADD | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-03 15:27:35,552 | INFO | ADD | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-03 15:28:02,523 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-03 15:28:02,663 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-03 15:28:02,672 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-03 15:28:02,687 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-04 21:39:40,910 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-04 21:39:40,918 | INFO | 📊 239a:80f4 → connections: 1
+2026-04-04 21:39:40,919 | WARNING | ⚠️ Pico detected → "Raspberry Pi Pico Keyboard"
+2026-04-04 21:39:41,292 | WARNING | 🚨 ALERT: Untrusted keyboard → "Raspberry Pi Pico Keyboard" (239a:80f4)
+2026-04-04 21:39:41,309 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-04 21:39:41,310 | INFO | ADD | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-04 21:39:41,311 | INFO | ADD | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-04 21:40:32,624 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-04 21:40:32,750 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-04 21:40:32,816 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-04 21:40:32,850 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-05 03:14:21,880 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-05 03:14:21,886 | INFO | 📊 239a:80f4 → connections: 1
+2026-04-05 03:14:21,887 | WARNING | ⚠️ Pico detected → "Raspberry Pi Pico Keyboard"
+2026-04-05 03:14:21,989 | WARNING | 🚨 ALERT: Untrusted keyboard → "Raspberry Pi Pico Keyboard" (239a:80f4)
+2026-04-05 03:14:22,019 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-05 03:14:22,021 | INFO | ADD | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-05 03:14:22,024 | INFO | ADD | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-05 03:22:00,269 | INFO | 🎯 Monitoring keyboard: /dev/input/event7
+2026-04-05 03:22:00,274 | INFO | 🎯 Monitoring keyboard: /dev/input/event2
+2026-04-05 03:22:11,236 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-05 03:22:11,307 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-05 03:22:11,324 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-05 03:22:11,370 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-05 03:22:23,983 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-05 03:22:23,984 | INFO | 📊 239a:80f4 → connections: 1
+2026-04-05 03:22:23,984 | WARNING | ⚠️ Pico detected → "Raspberry Pi Pico Keyboard"
+2026-04-05 03:22:24,155 | WARNING | 🚨 ALERT: Untrusted keyboard → "Raspberry Pi Pico Keyboard" (239a:80f4)
+2026-04-05 03:22:24,195 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-05 03:22:24,197 | INFO | ADD | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-05 03:22:24,198 | INFO | ADD | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-05 03:27:07,528 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-05 03:27:07,591 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-05 03:27:07,636 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-05 03:27:07,655 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4

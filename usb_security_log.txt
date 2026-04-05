@@ -1,0 +1,59 @@
+2026-03-11 08:28:21.283079 - Device Connected: 03f0:134a (HP_USB_Optical_Mouse)
+2026-03-12 08:06:23.730004 - Device Connected: 03f0:134a (HP_USB_Optical_Mouse)
+2026-03-19 19:12:14.453918 - Device Connected: 239a:80f4 (Pico)
+2026-03-19 19:22:29.954998 - Device Connected: 239a:80f4 (Pico)
+2026-03-19 19:22:29.961409 - ⚠ Unknown USB Device Detected | 239a:80f4
+2026-03-20 08:16:44.378405 - Device Connected: 03f0:344a (HP_USB_Slim_Keyboard)
+2026-03-20 08:20:11.331137 - Device Connected: 03f0:344a (HP_USB_Slim_Keyboard)
+2026-03-20 08:20:51.501304 - Device Connected: 03f0:344a (HP_USB_Slim_Keyboard)
+2026-03-20 09:17:47.221419 - Device Connected: 046d:c542 (Wireless_Receiver)
+2026-03-20 09:19:42.987589 - Device Connected: 239a:80f4 (Pico)
+2026-03-20 09:19:42.988253 - ⚠ Unknown USB Device Detected | 239a:80f4
+2026-04-05 03:32:10,029 | INFO | 🎯 Monitoring keyboard: /dev/input/event2
+2026-04-05 03:32:21,763 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A
+2026-04-05 03:32:21,765 | INFO | 📊 239a:80f4 → connections: 1
+2026-04-05 03:32:21,969 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A
+2026-04-05 03:32:21,970 | INFO | ADD | Unknown | /dev/input/event7
+2026-04-05 03:32:21,972 | INFO | ADD | Unknown | /dev/input/event8
+2026-04-05 03:36:50,944 | INFO | REMOVE | Unknown | /dev/input/event7
+2026-04-05 03:36:50,995 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A
+2026-04-05 03:36:50,997 | INFO | REMOVE | Unknown | /dev/input/event8
+2026-04-05 03:36:51,029 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A
+2026-04-05 03:37:02,541 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A
+2026-04-05 03:37:02,549 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A
+2026-04-05 03:37:02,607 | INFO | ADD | Unknown | /dev/input/event8
+2026-04-05 03:37:02,616 | INFO | ADD | Unknown | /dev/input/event7
+2026-04-05 03:37:10,122 | INFO | REMOVE | Unknown | /dev/input/event7
+2026-04-05 03:37:10,174 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A
+2026-04-05 03:37:10,197 | INFO | REMOVE | Unknown | /dev/input/event8
+2026-04-05 03:37:10,206 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A
+2026-04-05 03:37:27,460 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A
+2026-04-05 03:37:27,461 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A
+2026-04-05 03:37:27,503 | INFO | ADD | Unknown | /dev/input/event7
+2026-04-05 03:37:27,520 | INFO | ADD | Unknown | /dev/input/event8
+2026-04-05 03:37:43,654 | INFO | REMOVE | Unknown | /dev/input/event7
+2026-04-05 03:37:43,746 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A
+2026-04-05 03:37:43,750 | INFO | REMOVE | Unknown | /dev/input/event8
+2026-04-05 03:37:43,761 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A
+2026-04-05 03:37:50,683 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A
+2026-04-05 03:37:50,691 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A
+2026-04-05 03:37:50,770 | INFO | ADD | Unknown | /dev/input/event7
+2026-04-05 03:37:50,780 | INFO | ADD | Unknown | /dev/input/event8
+2026-04-05 03:37:59,109 | INFO | 🎯 Monitoring keyboard: /dev/input/event2
+2026-04-05 03:38:05,847 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A
+2026-04-05 03:38:05,848 | INFO | 📊 239a:80f4 → connections: 1
+2026-04-05 03:38:05,995 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A
+2026-04-05 03:38:05,998 | INFO | ADD | Unknown | /dev/input/event7
+2026-04-05 03:38:06,002 | INFO | ADD | Unknown | /dev/input/event8
+2026-04-05 03:42:45,776 | INFO | 🎯 Monitoring keyboard: /dev/input/event7
+2026-04-05 03:42:45,896 | INFO | 🎯 Monitoring keyboard: /dev/input/event2
+2026-04-05 03:42:55,460 | INFO | REMOVE | Unknown
+2026-04-05 03:42:55,591 | INFO | REMOVE | "Raspberry Pi Pico Keyboard"
+2026-04-05 03:42:55,666 | INFO | REMOVE | Unknown
+2026-04-05 03:42:55,683 | INFO | REMOVE | "Raspberry Pi Pico Mouse"
+2026-04-05 03:43:01,829 | INFO | ADD | "Raspberry Pi Pico Mouse"
+2026-04-05 03:43:01,830 | INFO | 📊 Device 239a:80f4 connected (1 times)
+2026-04-05 03:43:01,830 | WARNING | Suspicious device (Pico) detected: "Raspberry Pi Pico Mouse"
+2026-04-05 03:43:01,900 | INFO | ADD | "Raspberry Pi Pico Keyboard"
+2026-04-05 03:43:01,902 | INFO | ADD | Unknown
+2026-04-05 03:43:01,903 | INFO | ADD | Unknown
