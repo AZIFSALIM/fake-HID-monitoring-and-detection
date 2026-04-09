@@ -6,3 +6,59 @@
 2026-04-05 03:57:52,776 | INFO | Monitoring keyboard: /dev/input/event7
 2026-04-05 03:57:52,850 | INFO | Monitoring keyboard: /dev/input/event2
 2026-04-05 03:58:03,915 | WARNING | Suspicious Pico device detected: "Raspberry Pi Pico Mouse"
+2026-04-05 14:17:08,414 | INFO | 🎯 MONITORING
+/dev/input/event2
+--------------------------------------------------
+2026-04-05 14:18:02,197 | INFO | 🔌 DEVICE CONNECTED
+"HID 1bcf:08a0 Mouse"
+--------------------------------------------------
+2026-04-05 14:18:02,198 | INFO | 🔌 DEVICE CONNECTED
+Unknown
+--------------------------------------------------
+2026-04-05 14:18:02,212 | INFO | 🔌 DEVICE CONNECTED
+"HID 1bcf:08a0 Keyboard"
+--------------------------------------------------
+2026-04-05 14:18:02,289 | INFO | 🔌 DEVICE CONNECTED
+Unknown
+--------------------------------------------------
+2026-04-05 14:18:02,335 | INFO | 🔌 DEVICE CONNECTED
+Unknown
+--------------------------------------------------
+2026-04-05 14:18:50,497 | INFO | 🔌 DEVICE CONNECTED
+"Raspberry Pi Pico Mouse"
+--------------------------------------------------
+2026-04-05 14:18:50,498 | INFO | 🔌 DEVICE CONNECTED
+"Raspberry Pi Pico Keyboard"
+--------------------------------------------------
+2026-04-05 14:18:50,511 | INFO | 🔌 DEVICE CONNECTED
+Unknown
+--------------------------------------------------
+2026-04-05 14:18:50,552 | INFO | 🔌 DEVICE CONNECTED
+Unknown
+--------------------------------------------------
+2026-04-05 14:18:50,578 | INFO | 🔌 DEVICE CONNECTED
+Unknown
+--------------------------------------------------
+2026-04-05 14:19:23,931 | INFO | 🔌 DEVICE CONNECTED
+"Raspberry Pi Pico Mouse"
+--------------------------------------------------
+2026-04-05 14:19:23,934 | INFO | 🔌 DEVICE CONNECTED
+"Raspberry Pi Pico Keyboard"
+--------------------------------------------------
+2026-04-05 14:19:23,977 | INFO | 🔌 DEVICE CONNECTED
+Unknown
+--------------------------------------------------
+2026-04-05 14:19:23,981 | INFO | 🔌 DEVICE CONNECTED
+Unknown
+--------------------------------------------------
+2026-04-05 14:19:24,002 | INFO | 🔌 DEVICE CONNECTED
+Unknown
+--------------------------------------------------
+2026-04-05 14:52:28,095 | INFO | Monitoring keyboard: /dev/input/event2
+2026-04-05 14:53:35,701 | WARNING | Suspicious Pico device detected: Pico HID — "Raspberry Pi Pico Keyboard"
+2026-04-08 14:55:03,618 | INFO | Monitoring keyboard: /dev/input/event2
+2026-04-08 14:56:18,195 | WARNING | Suspicious Pico device detected: "Raspberry Pi Pico Keyboard"
+2026-04-08 15:25:27,550 | INFO | Monitoring keyboard: /dev/input/event2
+2026-04-08 15:25:49,415 | WARNING | Suspicious Pico device detected: Pico HID — "Raspberry Pi Pico Mouse"
+2026-04-08 15:27:11,065 | INFO | Monitoring keyboard: /dev/input/event2
+2026-04-08 15:27:25,298 | WARNING | Suspicious Pico device detected: "Raspberry Pi Pico Keyboard"

@@ -332,3 +332,67 @@
 2026-04-05 03:27:07,591 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 239a:80f4
 2026-04-05 03:27:07,636 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
 2026-04-05 03:27:07,655 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-08 14:58:51,149 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-08 14:58:51,166 | INFO | ℹ️ Untrusted mouse → "Raspberry Pi Pico Mouse" (239a:80f4)
+2026-04-08 14:58:51,166 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-08 14:58:51,184 | INFO | ADD | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-08 14:58:51,196 | INFO | ADD | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-08 15:03:39,475 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-08 15:03:39,673 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-08 15:03:39,674 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-08 15:03:39,719 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-08 15:23:01,812 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-08 15:23:01,824 | INFO | ℹ️ Untrusted mouse → "Raspberry Pi Pico Mouse" (239a:80f4)
+2026-04-08 15:23:01,825 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-08 15:23:01,860 | INFO | ADD | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-08 15:23:01,862 | INFO | ADD | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-08 15:23:36,122 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-08 15:23:36,125 | INFO | ℹ️ Untrusted mouse → "Raspberry Pi Pico Mouse" (239a:80f4)
+2026-04-08 15:23:36,135 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-08 15:23:36,197 | INFO | ADD | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-08 15:23:36,201 | INFO | ADD | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-08 15:28:30,157 | INFO | ADD | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-08 15:28:30,158 | WARNING | 🚨 ALERT: Untrusted keyboard → "Raspberry Pi Pico Keyboard" (239a:80f4)
+2026-04-08 15:28:30,203 | INFO | ADD | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-08 15:28:30,209 | INFO | ADD | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-08 15:28:30,278 | INFO | ADD | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-08 15:28:46,276 | INFO | REMOVE | Unknown HID | /dev/input/event7 | 239a:80f4
+2026-04-08 15:28:46,305 | INFO | REMOVE | "Raspberry Pi Pico Keyboard" | N/A | 239a:80f4
+2026-04-08 15:28:46,312 | INFO | REMOVE | Unknown HID | /dev/input/event8 | 239a:80f4
+2026-04-08 15:28:46,329 | INFO | REMOVE | "Raspberry Pi Pico Mouse" | N/A | 239a:80f4
+2026-04-08 16:03:41,327 | INFO | 🎯 Monitoring: /dev/input/event6 (VirtualBox mouse integration)
+2026-04-08 16:03:41,329 | INFO | 🎯 Monitoring: /dev/input/event5 (VirtualBox USB Tablet)
+2026-04-08 16:03:41,330 | INFO | 🎯 Monitoring: /dev/input/event4 (Video Bus)
+2026-04-08 16:03:41,331 | INFO | 🎯 Monitoring: /dev/input/event3 (ImExPS/2 Generic Explorer Mouse)
+2026-04-08 16:03:41,332 | INFO | 🎯 Monitoring: /dev/input/event2 (AT Translated Set 2 keyboard)
+2026-04-08 16:03:41,334 | INFO | 🎯 Monitoring: /dev/input/event1 (Sleep Button)
+2026-04-08 16:03:41,337 | INFO | 🎯 Monitoring: /dev/input/event0 (Power Button)
+2026-04-08 16:04:08,527 | INFO | 🎯 Monitoring: /dev/input/event8 (Raspberry Pi Pico Mouse)
+2026-04-08 16:04:08,533 | INFO | 🎯 Monitoring: /dev/input/event7 (Raspberry Pi Pico Keyboard)
+2026-04-08 16:04:53,125 | WARNING | ⚠️ Suspicious typing speed: 8.5 keys/sec (/dev/input/event7)
+2026-04-08 16:04:53,172 | WARNING | ⚠️ Suspicious typing speed: 9.0 keys/sec (/dev/input/event7)
+2026-04-08 16:04:53,206 | WARNING | ⚠️ Suspicious typing speed: 9.5 keys/sec (/dev/input/event7)
+2026-04-08 16:04:53,247 | WARNING | ⚠️ Suspicious typing speed: 10.0 keys/sec (/dev/input/event7)
+2026-04-08 16:04:53,279 | WARNING | ⚠️ Suspicious typing speed: 10.5 keys/sec (/dev/input/event7)
+2026-04-08 16:04:53,310 | WARNING | ⚠️ Suspicious typing speed: 11.0 keys/sec (/dev/input/event7)
+2026-04-08 16:04:53,328 | WARNING | ⚠️ Suspicious typing speed: 11.5 keys/sec (/dev/input/event7)
+2026-04-08 16:04:53,343 | WARNING | ⚠️ Suspicious typing speed: 12.0 keys/sec (/dev/input/event7)
+2026-04-08 16:04:53,360 | WARNING | 🚨 EXTREME typing speed: 12.5 keys/sec (/dev/input/event7)
+2026-04-08 16:04:53,378 | WARNING | 🛑 BLOCKED: /dev/input/event7
+2026-04-08 16:08:51,946 | INFO | 🎯 Monitoring: /dev/input/event6 (VirtualBox mouse integration)
+2026-04-08 16:08:51,949 | INFO | 🎯 Monitoring: /dev/input/event5 (VirtualBox USB Tablet)
+2026-04-08 16:08:51,949 | INFO | 🎯 Monitoring: /dev/input/event4 (Video Bus)
+2026-04-08 16:08:51,950 | INFO | 🎯 Monitoring: /dev/input/event3 (ImExPS/2 Generic Explorer Mouse)
+2026-04-08 16:08:51,951 | INFO | 🎯 Monitoring: /dev/input/event2 (AT Translated Set 2 keyboard)
+2026-04-08 16:08:51,952 | INFO | 🎯 Monitoring: /dev/input/event1 (Sleep Button)
+2026-04-08 16:08:51,953 | INFO | 🎯 Monitoring: /dev/input/event0 (Power Button)
+2026-04-08 16:09:11,923 | WARNING | ⚠️ Suspicious typing speed: 8.5 keys/sec (/dev/input/event2)
+2026-04-08 16:09:11,956 | WARNING | ⚠️ Suspicious typing speed: 9.0 keys/sec (/dev/input/event2)
+2026-04-08 16:09:12,007 | WARNING | ⚠️ Suspicious typing speed: 9.5 keys/sec (/dev/input/event2)
+2026-04-08 16:09:12,064 | WARNING | ⚠️ Suspicious typing speed: 10.0 keys/sec (/dev/input/event2)
+2026-04-08 16:09:12,102 | WARNING | ⚠️ Suspicious typing speed: 10.5 keys/sec (/dev/input/event2)
+2026-04-08 16:09:12,160 | WARNING | ⚠️ Suspicious typing speed: 11.0 keys/sec (/dev/input/event2)
+2026-04-08 16:09:12,177 | WARNING | ⚠️ Suspicious typing speed: 11.5 keys/sec (/dev/input/event2)
+2026-04-08 16:09:12,222 | WARNING | ⚠️ Suspicious typing speed: 12.0 keys/sec (/dev/input/event2)
+2026-04-08 16:09:12,262 | WARNING | 🚨 EXTREME typing speed: 12.5 keys/sec (/dev/input/event2)
+2026-04-08 16:09:12,319 | WARNING | 🛑 BLOCKED: /dev/input/event2
